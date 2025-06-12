@@ -117,5 +117,3 @@ tsconfig.json
 **Feel free to fork, customize, and use this as a template for your own portfolio or cloud projects!**
 
 ---
-
-Let me know if you want to add badges, screenshots, or further customize this README!
